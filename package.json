@@ -1,0 +1,23 @@
+{
+  "name": "core.node.print",
+  "version": "1.0.0",
+  "description": "pretty print to console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ido-ofir/core.node.print.git"
+  },
+  "keywords": [
+    "core",
+    "print"
+  ],
+  "author": "Ido Ofir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ido-ofir/core.node.print/issues"
+  },
+  "homepage": "https://github.com/ido-ofir/core.node.print#readme"
+}
