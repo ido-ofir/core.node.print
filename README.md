@@ -1,10 +1,11 @@
 # core.node.print
-pretty print to console
+A prettier print to NodeJS console.
 
 # Usage
 
 ```js
 core.plugin([
+    require('core.node.colors'),
     require('core.node.print')
 ]);
 
